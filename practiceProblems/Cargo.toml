@@ -9,3 +9,7 @@ time = { version = "0.3", features = ["macros"] }
 [[bin]]
 name = "add_seconds"
 path = "src/addSeconds.rs"
+
+[[bin]]
+name = "space_age"
+path = "src/spaceAge.rs"
