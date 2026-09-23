@@ -13,3 +13,7 @@ path = "src/addSeconds.rs"
 [[bin]]
 name = "space_age"
 path = "src/spaceAge.rs"
+
+[[bin]]
+name = "all_your_base"
+path = "src/allYourBase.rs"
