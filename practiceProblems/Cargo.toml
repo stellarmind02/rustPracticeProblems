@@ -17,3 +17,7 @@ path = "src/spaceAge.rs"
 [[bin]]
 name = "all_your_base"
 path = "src/allYourBase.rs"
+
+[[bin]]
+name = "isograms"
+path = "src/isograms.rs"
