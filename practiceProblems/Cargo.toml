@@ -5,6 +5,7 @@ edition = "2024"
 
 [dependencies]
 time = { version = "0.3", features = ["macros"] }
+rand = "0.5.0"
 
 [[bin]]
 name = "add_seconds"
@@ -21,3 +22,7 @@ path = "src/allYourBase.rs"
 [[bin]]
 name = "isograms"
 path = "src/isograms.rs"
+
+[[bin]]
+name = "rps"
+path = "src/rock_paper_scissors.rs"
