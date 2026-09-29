@@ -26,3 +26,7 @@ path = "src/isograms.rs"
 [[bin]]
 name = "rps"
 path = "src/rock_paper_scissors.rs"
+
+[[bin]]
+name = "vectors"
+path = "src/vectors.rs"
